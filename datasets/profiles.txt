@@ -1,0 +1,500 @@
+Navy,Marks,31,1991-03-12,223919,2019,Philosophy,Arts 
+Amos,Lim,30,1992-08-27,224971,2018,Adult Education,Education 
+Giavanna,Soto,32,1990-05-24,224412,2018,Adult Education,Education 
+Barrett,Haynes,32,1990-08-01,224780,2020,Biochemistry,College of Medicine 
+Lexi,Singh,29,1993-03-13,222922,2019,History,Arts 
+Louis,Maynard,24,1997-12-12,225323,2020,Computer Science,Science 
+Carolyn,Guevara,23,1999-10-03,222684,2019,Adult Education,Education 
+Tommy,Rocha,23,1999-08-28,222889,2019,Economics,Social Sciences 
+Emmie,Conley,26,1996-09-20,223280,2018,Electrical and Electronics Engineering,Technology 
+Marvin,Velasquez,21,2001-08-29,225533,2019,Biochemistry,College of Medicine 
+Esme,Fuentes,24,1998-01-09,223240,2020,History,Arts 
+Bowen,Henderson,20,2002-05-03,223069,2019,Adult Education,Education 
+Maria,Farmer,32,1990-02-16,222943,2021,Biochemistry,College of Medicine 
+Jamison,Burton,21,2001-07-14,222584,2020,Adult Education,Education 
+Miriam,Novak,26,1996-09-27,224502,2019,Psychology,Social Sciences 
+Bishop,Webb,27,1995-06-25,224163,2019,Economics,Social Sciences 
+Ariella,Simpson,25,1997-03-29,223494,2020,Petroleum Engineering,Technology 
+Elliott,Bowen,23,1999-03-17,223186,2019,History,Arts 
+Dream,Lester,22,2000-08-20,223126,2019,Adult Education,Education 
+Lee,Kelley,27,1994-12-02,225016,2018,Computer Science,Science 
+Rosalie,Gilbert,32,1990-09-07,224944,2019,Geology,Social Sciences 
+Tobias,Macdonald,26,1996-05-30,224309,2021,Medicine and Surgery,College of Medicine 
+Rosalia,Aguirre,25,1997-07-11,224061,2021,Statistics,Science 
+Andy,Christensen,23,1999-08-14,224392,2021,Psychology,Social Sciences 
+Carmen,Curry,25,1997-03-28,224063,2019,Mathematics,Science 
+Briggs,Donovan,28,1994-10-25,222425,2021,Adult Education,Education 
+Azariah,Phillips,28,1994-03-09,224187,2021,Biochemistry,College of Medicine 
+Andrew,Calderon,23,1999-05-05,225517,2019,Nursing,College of Medicine 
+Serena,Wolfe,30,1992-10-22,223730,2020,History,Arts 
+Donovan,Galindo,28,1994-08-26,225201,2020,Mechanical Engineering,Technology 
+Corinne,Rivera,19,2002-12-08,224481,2020,Medicine and Surgery,College of Medicine 
+Charles,Reeves,24,1998-04-24,223667,2018,Electrical and Electronics Engineering,Technology 
+Lana,McPherson,21,2001-08-10,225005,2020,Economics,Social Sciences 
+Foster,Lawrence,32,1990-02-23,223946,2019,Adult Education,Education 
+Lauren,Johnston,28,1994-05-10,223763,2021,Biochemistry,College of Medicine 
+Felix,Miller,23,1999-07-12,225031,2021,Medicine and Surgery,College of Medicine 
+Isabella,Williams,31,1991-04-25,223087,2019,Geology,Social Sciences 
+Oliver,Choi,28,1994-01-13,225623,2020,History,Arts 
+Karla,Hamilton,28,1994-09-24,224660,2020,Statistics,Science 
+Jason,Watson,20,2001-11-22,225149,2018,Mechanical Engineering,Technology 
+Hailey,Schmidt,31,1991-06-06,223230,2021,Petroleum Engineering,Technology 
+Zayden,Stephens,22,2000-04-10,223385,2021,Mechanical Engineering,Technology 
+Millie,Summers,31,1990-12-22,224250,2018,Nursing,College of Medicine 
+Darius,Pope,30,1992-02-05,225493,2020,Adult Education,Education 
+Aurelia,Sierra,26,1996-07-09,224757,2020,Geology,Social Sciences 
+Dayton,Knight,30,1992-07-26,223720,2019,Electrical and Electronics Engineering,Technology 
+Gracie,Pennington,23,1998-12-13,222578,2018,Nursing,College of Medicine 
+Bobby,Schmidt,22,2000-03-10,223340,2018,Economics,Social Sciences 
+Kimberly,Pruitt,20,2002-07-28,223409,2019,Medicine and Surgery,College of Medicine 
+Gatlin,Harmon,20,2002-05-31,222998,2018,Biochemistry,College of Medicine 
+Maren,Orr,29,1993-11-02,225070,2020,Civil Engineering,Technology 
+Benicio,Espinoza,27,1995-01-18,222782,2019,Adult Education,Education 
+Lucille,Gardner,30,1992-06-30,222534,2021,Adult Education,Education 
+Alan,Frost,30,1992-08-19,222591,2021,Biochemistry,College of Medicine 
+Paula,Lynn,29,1993-10-04,224098,2020,Economics,Social Sciences 
+Zechariah,Clayton,29,1993-07-06,224508,2021,Biochemistry,College of Medicine 
+Saige,Cano,31,1991-01-24,224945,2020,Economics,Social Sciences 
+Terry,Wang,21,2001-05-16,224547,2020,Communication and Language Arts,Arts 
+Kailani,Cooper,26,1996-05-03,223825,2018,Adult Education,Education 
+Jonathan,Farmer,20,2002-05-03,224149,2018,Adult Education,Education 
+Madelynn,Walter,32,1990-03-02,222926,2019,History,Arts 
+Lochlan,Ponce,26,1996-05-01,222515,2021,Nursing,College of Medicine 
+Aileen,Shepherd,29,1993-07-19,222550,2021,Philosophy,Arts 
+Ronald,Monroe,30,1992-01-28,225832,2021,Computer Science,Science 
+Carly,York,26,1996-06-24,223884,2019,Communication and Language Arts,Arts 
+Leandro,Morales,22,1999-12-18,223005,2020,History,Arts 
+Skylar,Reilly,31,1991-08-14,224895,2021,Psychology,Social Sciences 
+Alvaro,McDaniel,23,1998-11-19,224185,2021,Medicine and Surgery,College of Medicine 
+Dahlia,Hampton,31,1991-03-01,225945,2021,Economics,Social Sciences 
+Hank,Collins,25,1997-10-14,223357,2019,Economics,Social Sciences 
+Kinsley,Noble,32,1990-04-14,224248,2021,Physics,Science 
+Idris,Lin,20,2002-04-30,225028,2021,Biochemistry,College of Medicine 
+Makenna,Miller,32,1990-03-08,223863,2018,History,Arts 
+Benjamin,Duncan,23,1998-12-04,224734,2021,Medicine and Surgery,College of Medicine 
+Elise,Davila,21,2001-08-14,223049,2021,Psychology,Social Sciences 
+Grey,Moore,25,1996-11-20,222961,2021,Physics,Science 
+Emily,Livingston,22,2000-02-09,223549,2019,Biochemistry,College of Medicine 
+Ambrose,Benjamin,20,2002-04-25,224496,2019,Biochemistry,College of Medicine 
+Jianna,Ayala,30,1992-10-11,225472,2019,Philosophy,Arts 
+Tanner,Hester,23,1999-01-19,225925,2020,Geology,Social Sciences 
+Zendaya,McGee,27,1995-06-28,224958,2018,Psychology,Social Sciences 
+Conner,Hawkins,24,1998-05-14,224801,2018,Medicine and Surgery,College of Medicine 
+Ariel,Richards,29,1992-12-23,222766,2020,Adult Education,Education 
+Holden,Owens,29,1993-09-25,223569,2021,Geology,Social Sciences 
+Amaya,Bender,25,1997-05-29,223500,2019,Electrical and Electronics Engineering,Technology 
+Zavier,Turner,20,2002-07-21,223062,2021,Petroleum Engineering,Technology 
+Brooklyn,Harper,32,1990-09-22,222751,2020,Nursing,College of Medicine 
+Hayes,Allen,23,1999-10-01,223378,2021,Economics,Social Sciences 
+Riley,Miranda,30,1992-02-03,223118,2018,Communication and Language Arts,Arts 
+Rory,Buchanan,23,1999-04-16,223568,2021,Mathematics,Science 
+Maryam,McCormick,23,1999-04-11,224663,2021,Microbiology,Science 
+Jasiah,Duran,26,1996-11-08,224384,2018,Geology,Social Sciences 
+Willa,Gill,24,1998-03-07,222510,2021,Economics,Social Sciences 
+Matthias,Fitzgerald,31,1991-10-30,224855,2019,History,Arts 
+Marlee,Morrison,31,1991-06-13,223210,2018,Electrical and Electronics Engineering,Technology 
+Maximus,Ibarra,21,2000-12-09,223595,2021,Philosophy,Arts 
+Madilynn,Suarez,26,1996-09-23,223363,2020,Communication and Language Arts,Arts 
+Soren,Baldwin,20,2002-07-24,224422,2018,Adult Education,Education 
+Esmeralda,Hall,31,1991-10-18,225012,2018,Mathematics,Science 
+Thomas,Coffey,30,1992-03-27,224654,2020,Statistics,Science 
+Paola,Hodge,23,1999-09-30,224317,2019,Mechanical Engineering,Technology 
+Reign,Farmer,23,1999-10-14,224953,2021,Medicine and Surgery,College of Medicine 
+Madelynn,Boyer,30,1992-03-10,222976,2020,Mathematics,Science 
+Zeke,Clark,27,1995-09-05,223836,2019,Medicine and Surgery,College of Medicine 
+Chloe,Matthews,30,1992-01-22,223994,2020,Geology,Social Sciences 
+Preston,Burke,24,1998-03-15,223259,2019,Adult Education,Education 
+Vera,Freeman,26,1996-03-15,225776,2018,Economics,Social Sciences 
+Jayce,Rivas,30,1992-01-29,224972,2019,Geology,Social Sciences 
+Averie,Schwartz,20,2002-04-04,223761,2021,Mechanical Engineering,Technology 
+Edwin,Torres,25,1997-02-17,224980,2021,Medicine and Surgery,College of Medicine 
+Violet,Wong,31,1991-05-30,222886,2018,Philosophy,Arts 
+Walter,Bowman,21,2001-11-12,223670,2018,Nursing,College of Medicine 
+Fiona,Alvarez,24,1998-09-11,224018,2019,Petroleum Engineering,Technology 
+Xavier,Soto,25,1997-04-26,224140,2019,Adult Education,Education 
+Brynlee,Carpenter,24,1998-08-23,225151,2020,Communication and Language Arts,Arts 
+Jeremy,Walsh,30,1992-09-12,224201,2018,Adult Education,Education 
+Leia,Calhoun,23,1999-03-14,225671,2021,Civil Engineering,Technology 
+Gary,Peck,29,1992-12-24,224453,2019,Mechanical Engineering,Technology 
+Crystal,Lopez,31,1991-01-24,224435,2019,Psychology,Social Sciences 
+Michael,Brennan,31,1991-11-14,225607,2019,Nursing,College of Medicine 
+Elodie,Beard,20,2002-08-03,222487,2018,Communication and Language Arts,Arts 
+Nathanael,Truong,26,1996-11-06,225747,2018,Mechanical Engineering,Technology 
+Judith,Frye,27,1995-07-27,225625,2019,History,Arts 
+Franco,Herman,25,1997-09-06,225617,2018,Microbiology,Science 
+Paulina,Anderson,31,1991-01-26,225966,2020,Economics,Social Sciences 
+Jacob,Paul,22,2000-01-18,222867,2021,Economics,Social Sciences 
+Daphne,Murray,20,2002-01-02,225552,2020,Philosophy,Arts 
+Ashton,Hansen,30,1992-04-01,225279,2019,Electrical and Electronics Engineering,Technology 
+Hope,Allen,20,2002-08-04,223605,2019,Adult Education,Education 
+Carter,Choi,26,1996-04-20,225491,2020,Psychology,Social Sciences 
+Karla,Crawford,25,1997-03-01,222572,2018,Biochemistry,College of Medicine 
+Kevin,Dodson,31,1990-12-26,222548,2018,Psychology,Social Sciences 
+Etta,Singleton,26,1996-07-10,222491,2019,Mechanical Engineering,Technology 
+Landyn,Rivera,28,1994-01-15,225736,2021,Microbiology,Science 
+Lillian,Bradford,27,1995-09-04,224588,2019,Computer Science,Science 
+Ander,Warner,21,2000-12-26,222517,2019,Computer Science,Science 
+Wynter,Spencer,28,1994-08-06,224681,2020,Computer Science,Science 
+Ace,Patton,31,1991-01-14,222455,2018,Electrical and Electronics Engineering,Technology 
+Lorelei,Lynn,32,1990-01-08,223293,2019,Petroleum Engineering,Technology 
+Zechariah,Montes,23,1999-08-25,222944,2019,Nursing,College of Medicine 
+Roselyn,Schaefer,24,1998-08-21,222746,2020,History,Arts 
+Ishaan,Rocha,21,2001-03-08,224849,2018,Electrical and Electronics Engineering,Technology 
+Emmie,Holmes,25,1996-11-21,222644,2019,Adult Education,Education 
+King,Kane,26,1996-08-06,225831,2021,Psychology,Social Sciences 
+Ellianna,Lambert,30,1992-10-13,222921,2020,Adult Education,Education 
+Mario,Ray,31,1991-09-27,223507,2020,Petroleum Engineering,Technology 
+Ruth,Riley,23,1999-08-01,224636,2020,Mechanical Engineering,Technology 
+Amari,Pearson,22,2000-02-16,222544,2019,Adult Education,Education 
+Kiara,Livingston,23,1998-12-05,224529,2018,Psychology,Social Sciences 
+Ambrose,Hodges,21,2001-07-01,223074,2021,Nursing,College of Medicine 
+Eve,Wade,20,2002-07-17,223252,2019,Economics,Social Sciences 
+Jake,Garrett,23,1999-01-21,224153,2020,Computer Science,Science 
+Tessa,Stewart,23,1999-06-06,222663,2018,Statistics,Science 
+Nolan,Esquivel,20,2002-10-13,224465,2021,Statistics,Science 
+Jaylee,Gallegos,30,1991-12-20,225113,2020,Mathematics,Science 
+Jonas,Martinez,26,1996-02-03,225339,2020,Economics,Social Sciences 
+Harper,Campos,28,1994-10-24,223754,2018,Communication and Language Arts,Arts 
+Gideon,Horton,21,2001-03-20,224006,2021,Mathematics,Science 
+Aitana,Blanchard,27,1995-08-06,223653,2019,Geology,Social Sciences 
+Adler,Herrera,30,1992-09-13,225995,2020,Psychology,Social Sciences 
+Ximena,Harrell,22,2000-09-04,223969,2021,Mathematics,Science 
+Nelson,Carrillo,23,1999-05-25,224854,2020,Medicine and Surgery,College of Medicine 
+Kaylani,O’Connell,31,1991-11-11,224079,2019,Economics,Social Sciences 
+Jovanni,Lowe,27,1995-06-20,224915,2021,History,Arts 
+Amari,Crosby,32,1990-05-25,225351,2019,Biochemistry,College of Medicine 
+Tristen,Harrison,25,1997-08-16,225310,2018,Mathematics,Science 
+Jasmine,Lu,21,2001-09-22,223799,2020,History,Arts 
+Duncan,Jordan,30,1992-01-21,224323,2021,Geology,Social Sciences 
+Adalynn,Marquez,21,2001-09-28,224188,2019,Psychology,Social Sciences 
+Malakai,Jimenez,28,1994-07-08,224110,2019,Petroleum Engineering,Technology 
+Adeline,Campbell,20,2002-08-02,222852,2021,Adult Education,Education 
+Christopher,Garner,21,2001-07-23,222784,2019,Geology,Social Sciences 
+Jacqueline,Cantu,27,1995-11-01,222512,2021,Psychology,Social Sciences 
+Anakin,Barker,20,2002-05-20,225941,2021,Philosophy,Arts 
+Remington,Walsh,20,2002-10-20,222686,2020,Civil Engineering,Technology 
+Bodhi,Norris,28,1994-05-02,224770,2021,Psychology,Social Sciences 
+Arielle,Wilkins,22,2000-03-23,223684,2021,Philosophy,Arts 
+Yusuf,Good,31,1991-11-03,224501,2019,Adult Education,Education 
+Nathalia,Huerta,27,1995-04-14,225327,2018,Communication and Language Arts,Arts 
+Douglas,Acosta,20,2002-10-18,223001,2020,Geology,Social Sciences 
+Kaia,Miranda,29,1993-06-05,223424,2021,Adult Education,Education 
+Rory,Odom,32,1990-03-03,224716,2020,Microbiology,Science 
+Laylani,Rice,29,1993-01-24,225631,2020,Adult Education,Education 
+Graham,Scott,23,1998-12-03,222586,2021,Philosophy,Arts 
+Aurora,Pacheco,25,1997-03-03,223187,2020,Adult Education,Education 
+Erik,Smith,23,1998-12-09,223833,2018,Adult Education,Education 
+Olivia,Bowman,25,1997-04-26,224853,2018,History,Arts 
+Francisco,Saunders,24,1997-11-29,222777,2018,Biochemistry,College of Medicine 
+Meadow,Corona,25,1997-04-22,223783,2020,Economics,Social Sciences 
+Darian,Gill,29,1993-07-04,223788,2020,Geology,Social Sciences 
+Jordan,Delarosa,27,1995-04-28,224934,2021,Psychology,Social Sciences 
+Osiris,Chan,27,1995-03-28,222820,2020,Philosophy,Arts 
+Hattie,Reeves,24,1998-02-21,223341,2019,Economics,Social Sciences 
+Clark,Walls,23,1999-02-22,224677,2020,Geology,Social Sciences 
+Lilianna,Morton,32,1990-01-14,222694,2019,Adult Education,Education 
+Roland,Phelps,22,2000-01-22,225083,2018,Physics,Science 
+Laney,Fuentes,23,1999-06-18,224584,2020,Medicine and Surgery,College of Medicine 
+Bowen,Dodson,21,2000-12-03,223175,2020,Statistics,Science 
+Etta,Solomon,21,2001-07-07,223286,2021,Civil Engineering,Technology 
+Musa,Howard,23,1999-03-04,224467,2019,Computer Science,Science 
+Sophie,Herring,26,1996-05-11,222835,2020,Mechanical Engineering,Technology 
+Henrik,Bowman,23,1999-03-29,224081,2018,Mechanical Engineering,Technology 
+Fiona,Arellano,25,1996-12-21,223772,2020,Communication and Language Arts,Arts 
+Kellan,Jaramillo,24,1998-08-18,223608,2021,Biochemistry,College of Medicine 
+Guadalupe,Floyd,23,1999-01-29,223897,2019,Electrical and Electronics Engineering,Technology 
+Pierce,Townsend,30,1992-01-23,224993,2021,Medicine and Surgery,College of Medicine 
+Azalea,Reyes,29,1992-12-05,223642,2018,Adult Education,Education 
+Eli,Faulkner,22,2000-04-26,222519,2019,Adult Education,Education 
+Ansley,Schroeder,28,1994-11-04,224068,2018,Electrical and Electronics Engineering,Technology 
+Izaiah,Welch,23,1999-04-28,225983,2018,Microbiology,Science 
+Amira,Wilcox,24,1998-02-08,222641,2020,Philosophy,Arts 
+Jerry,Summers,29,1993-02-24,224694,2021,Geology,Social Sciences 
+Frankie,Joseph,29,1993-02-24,225548,2021,Physics,Science 
+Kyle,Davis,20,2001-12-31,225122,2019,Geology,Social Sciences 
+Mia,Church,24,1998-10-21,224177,2019,Microbiology,Science 
+Terrance,Burke,21,2000-12-30,225554,2021,Psychology,Social Sciences 
+Vera,Beck,32,1990-09-12,225353,2021,Statistics,Science 
+Eduardo,Meyers,24,1997-11-17,224166,2019,Adult Education,Education 
+Leyla,Moyer,32,1990-06-12,223808,2020,Communication and Language Arts,Arts 
+Ahmir,Casey,25,1997-09-30,225759,2021,Adult Education,Education 
+Sylvia,Shepard,27,1995-09-13,222567,2019,Mechanical Engineering,Technology 
+Damari,Sutton,22,2000-10-29,224134,2018,Microbiology,Science 
+Izabella,Villa,31,1991-07-01,224326,2018,Philosophy,Arts 
+Clay,Wallace,27,1995-06-03,225228,2018,Economics,Social Sciences 
+Arianna,Franklin,28,1994-11-04,224631,2018,Philosophy,Arts 
+Simon,Vazquez,21,2001-06-16,225586,2018,Philosophy,Arts 
+Journee,Martinez,31,1991-03-17,223951,2021,Computer Science,Science 
+Alexander,Herman,30,1992-06-17,222729,2021,Mathematics,Science 
+Paulina,Horn,28,1994-08-26,225859,2018,Geology,Social Sciences 
+Wilson,Fowler,20,2002-03-25,223376,2019,Adult Education,Education 
+Lennon,Glover,24,1998-10-17,223971,2019,Adult Education,Education 
+Mack,Curtis,25,1997-10-29,225842,2019,Adult Education,Education 
+Alexis,Stout,21,2001-03-21,225155,2021,Adult Education,Education 
+Callahan,Prince,27,1995-07-06,225537,2018,History,Arts 
+Greta,Peters,30,1992-05-05,222966,2021,Biochemistry,College of Medicine 
+Patrick,Hicks,27,1995-03-29,224666,2020,Adult Education,Education 
+Alina,Tate,20,2002-07-11,225001,2021,Petroleum Engineering,Technology 
+Dalton,English,28,1994-10-26,222731,2018,Adult Education,Education 
+Kelly,Rollins,24,1998-08-31,225341,2020,Medicine and Surgery,College of Medicine 
+Wes,Burton,21,2000-11-19,224608,2020,Microbiology,Science 
+Miriam,Curtis,31,1991-09-24,222770,2019,Civil Engineering,Technology 
+Muhammad,Andrews,27,1995-02-28,225700,2020,Economics,Social Sciences 
+Payton,Poole,25,1997-07-20,225076,2019,Physics,Science 
+Quincy,Valencia,25,1997-11-02,222643,2018,Electrical and Electronics Engineering,Technology 
+Maddison,Eaton,31,1991-11-10,225991,2021,Adult Education,Education 
+Leighton,Harvey,20,2002-04-13,223999,2020,Microbiology,Science 
+Nicole,Kline,28,1994-02-06,224345,2018,Philosophy,Arts 
+Ramon,Bauer,31,1991-06-25,222421,2019,Geology,Social Sciences 
+Haley,Tyler,28,1994-04-14,222730,2021,Biochemistry,College of Medicine 
+Emmitt,Castro,30,1992-02-18,223127,2020,Microbiology,Science 
+Eloise,Leach,27,1995-02-11,224011,2018,Adult Education,Education 
+Westin,Holland,25,1997-08-03,224349,2019,Nursing,College of Medicine 
+Mariah,Nichols,31,1991-06-06,225330,2020,Physics,Science 
+Atlas,Cunningham,23,1999-04-17,225027,2018,History,Arts 
+Marley,Keith,32,1990-08-21,225366,2019,Psychology,Social Sciences 
+Jagger,Stanley,31,1991-10-24,225783,2021,Nursing,College of Medicine 
+Gracelyn,Hall,22,2000-01-17,225959,2018,Adult Education,Education 
+Thomas,Roy,23,1999-10-30,225057,2021,Statistics,Science 
+Savanna,Keith,29,1993-06-03,224843,2020,Geology,Social Sciences 
+Jagger,Tanner,23,1999-06-17,223986,2020,Nursing,College of Medicine 
+Harmoni,O’brien,22,2000-04-20,222621,2021,Physics,Science 
+Riley,Gilmore,25,1997-02-14,224313,2021,Electrical and Electronics Engineering,Technology 
+Chanel,Cox,32,1990-03-03,224699,2019,Petroleum Engineering,Technology 
+Connor,Turner,32,1990-10-14,225965,2019,Psychology,Social Sciences 
+Brooklyn,Salinas,22,2000-10-22,224667,2019,Adult Education,Education 
+Edgar,Callahan,19,2002-11-21,223756,2018,Physics,Science 
+Kimber,Ramos,25,1997-11-04,224141,2019,Adult Education,Education 
+Angel,Benson,20,2002-05-09,225508,2018,Petroleum Engineering,Technology 
+Collins,French,24,1998-03-04,224369,2020,Adult Education,Education 
+Corey,Buchanan,25,1997-11-14,224459,2020,Communication and Language Arts,Arts 
+Maryam,Browning,23,1999-10-23,225289,2019,Psychology,Social Sciences 
+Rohan,Stark,28,1994-09-24,224239,2019,Medicine and Surgery,College of Medicine 
+Kamilah,Wilson,32,1990-10-28,223156,2021,Medicine and Surgery,College of Medicine 
+Daniel,Avery,23,1999-05-15,223700,2021,Psychology,Social Sciences 
+Meghan,Robles,22,2000-01-21,225225,2018,Biochemistry,College of Medicine 
+Otto,Carlson,20,2002-01-05,225660,2019,Civil Engineering,Technology 
+Kali,Yu,21,2001-07-14,225758,2019,Microbiology,Science 
+Bryant,Ware,24,1997-12-25,225629,2018,Adult Education,Education 
+Eileen,Jaramillo,21,2001-06-08,223182,2021,Mechanical Engineering,Technology 
+Riggs,McClure,22,2000-11-13,225446,2018,Communication and Language Arts,Arts 
+Estella,Hansen,22,1999-12-08,223947,2021,Medicine and Surgery,College of Medicine 
+Charlie,Orr,21,2001-01-16,224560,2019,Biochemistry,College of Medicine 
+Alaiya,Whitehead,30,1991-12-07,222908,2019,Biochemistry,College of Medicine 
+Zayd,Roberson,27,1995-05-25,222575,2020,History,Arts 
+Sasha,Knight,27,1995-01-30,225502,2020,Electrical and Electronics Engineering,Technology 
+Beckett,Stephenson,29,1993-01-15,223124,2018,Petroleum Engineering,Technology 
+Khaleesi,Potts,27,1995-01-14,223160,2020,History,Arts 
+Alfred,Flowers,27,1995-03-23,223878,2020,Electrical and Electronics Engineering,Technology 
+Ariya,Reese,28,1994-06-22,225359,2021,Mathematics,Science 
+Alijah,Avery,24,1998-04-24,225043,2020,Civil Engineering,Technology 
+Meghan,Sosa,24,1998-10-13,224721,2021,Physics,Science 
+Emir,Durham,21,2001-09-23,224031,2020,History,Arts 
+Tiffany,Lynch,29,1993-11-07,223391,2020,Biochemistry,College of Medicine 
+Zane,Pace,26,1996-01-03,224393,2019,Statistics,Science 
+Giana,Lambert,24,1998-06-19,223590,2020,Electrical and Electronics Engineering,Technology 
+Mario,Walls,23,1999-07-24,223521,2020,Philosophy,Arts 
+Lilianna,Swanson,22,2000-07-01,223454,2021,Civil Engineering,Technology 
+Hugo,Pena,20,2002-02-01,224811,2018,Microbiology,Science 
+Rachel,Mayo,30,1992-05-30,223879,2020,Adult Education,Education 
+Jericho,Owens,20,2002-05-01,225844,2020,Nursing,College of Medicine 
+Amaya,Gomez,26,1996-10-07,222438,2019,Psychology,Social Sciences 
+Isaiah,Bailey,21,2001-10-30,225779,2020,Economics,Social Sciences 
+Kennedy,Pearson,28,1994-08-11,224242,2020,History,Arts 
+Gunner,Huffman,22,2000-01-02,225944,2019,Mathematics,Science 
+Hayley,Parker,25,1997-08-24,225942,2021,Nursing,College of Medicine 
+Caleb,Wilkerson,20,2002-02-13,222854,2021,Economics,Social Sciences 
+Janiyah,Middleton,20,2002-02-05,225568,2021,Civil Engineering,Technology 
+Misael,Reid,20,2002-02-15,224167,2019,Philosophy,Arts 
+Charlee,Meyer,24,1998-09-22,223933,2020,Geology,Social Sciences 
+Tristan,Fuentes,22,2000-11-13,225744,2020,Computer Science,Science 
+Madeleine,Strickland,25,1997-11-09,223576,2020,Adult Education,Education 
+Keegan,Montgomery,21,2001-01-17,224558,2021,Petroleum Engineering,Technology 
+Evangeline,Bentley,20,2002-10-19,223832,2020,Adult Education,Education 
+Randy,Miles,31,1991-10-09,224563,2021,Economics,Social Sciences 
+Alessandra,Tucker,26,1996-08-10,225447,2018,Economics,Social Sciences 
+Ivan,Villanueva,32,1990-07-07,224741,2020,Philosophy,Arts 
+Monroe,Guevara,20,2002-09-30,224468,2019,Civil Engineering,Technology 
+Tommy,Weeks,27,1995-04-22,222685,2018,Economics,Social Sciences 
+Karen,Gilmore,20,2002-07-07,224927,2018,Physics,Science 
+Vihaan,Payne,31,1991-04-03,224265,2019,Electrical and Electronics Engineering,Technology 
+London,Garrett,23,1999-01-06,225202,2020,Adult Education,Education 
+Kairo,Cross,27,1995-07-01,223079,2018,Adult Education,Education 
+Nayeli,Liu,23,1998-12-19,223519,2020,Psychology,Social Sciences 
+Pedro,Goodman,29,1993-05-17,222595,2021,Biochemistry,College of Medicine 
+Carolina,Wolf,24,1998-08-10,224939,2019,Petroleum Engineering,Technology 
+Jase,Holland,29,1993-10-16,225511,2019,Statistics,Science 
+Mariah,Olsen,24,1998-04-30,225732,2019,Electrical and Electronics Engineering,Technology 
+Skyler,Barry,26,1995-12-27,224474,2021,Communication and Language Arts,Arts 
+Waverly,Newman,21,2001-01-05,224865,2018,Philosophy,Arts 
+Anderson,Henderson,27,1995-01-18,224720,2018,Electrical and Electronics Engineering,Technology 
+Maria,Callahan,22,1999-12-29,225627,2021,Geology,Social Sciences 
+Quinton,Bell,20,2002-01-21,222816,2019,Petroleum Engineering,Technology 
+Melody,Casey,23,1998-11-19,222639,2018,Adult Education,Education 
+Armando,Hall,31,1991-02-12,224452,2019,Nursing,College of Medicine 
+Leah,Blair,29,1993-11-06,225066,2018,Adult Education,Education 
+Troy,Strong,30,1992-10-27,222904,2018,Philosophy,Arts 
+Margo,Fleming,26,1995-12-29,225525,2021,Statistics,Science 
+Fernando,Hicks,23,1999-08-30,225597,2018,Philosophy,Arts 
+Alina,Moody,20,2001-12-11,223683,2018,Mechanical Engineering,Technology 
+Ryland,Rivas,30,1991-12-27,222463,2018,Statistics,Science 
+Averie,Sherman,20,2002-01-05,223289,2018,Communication and Language Arts,Arts 
+Adan,Hood,21,2001-06-19,223211,2020,Geology,Social Sciences 
+Briana,Noble,20,2002-08-19,224713,2018,Electrical and Electronics Engineering,Technology 
+Idris,Douglas,28,1994-03-25,222598,2020,Mechanical Engineering,Technology 
+Aniyah,Marin,31,1991-04-12,223975,2019,Biochemistry,College of Medicine 
+Aldo,Steele,23,1998-12-13,224151,2020,Physics,Science 
+Rylie,Carrillo,28,1994-09-01,225632,2018,Economics,Social Sciences 
+Wade,Campos,21,2001-03-16,224488,2019,Mathematics,Science 
+Sutton,Magana,29,1993-06-06,222928,2019,History,Arts 
+Rey,Barton,23,1999-06-02,225318,2020,Mathematics,Science 
+Danna,Malone,28,1993-12-29,223444,2021,Economics,Social Sciences 
+Ruben,Simon,24,1998-06-10,224695,2020,Communication and Language Arts,Arts 
+Kalani,Moses,31,1991-07-03,224644,2019,Mechanical Engineering,Technology 
+Niklaus,Hughes,20,2002-10-11,225809,2020,Medicine and Surgery,College of Medicine 
+Samantha,Clements,22,1999-12-03,222525,2019,History,Arts 
+Fisher,Mosley,30,1992-03-10,222912,2018,Adult Education,Education 
+Zaniyah,Shields,22,2000-08-21,223379,2019,Microbiology,Science 
+Devon,Kerr,23,1999-02-11,223551,2020,History,Arts 
+Baylee,Kramer,22,2000-09-25,223482,2018,Economics,Social Sciences 
+Kylan,Mann,27,1995-01-19,224604,2021,Adult Education,Education 
+Paislee,Carroll,26,1996-09-26,225522,2021,Computer Science,Science 
+Oscar,Hampton,24,1998-10-30,225710,2021,Computer Science,Science 
+Leona,Lucero,25,1997-11-03,225326,2021,Geology,Social Sciences 
+Felipe,Roberts,23,1999-07-05,225791,2019,Medicine and Surgery,College of Medicine 
+Paisley,Fletcher,28,1993-12-30,222435,2021,Nursing,College of Medicine 
+Jay,Delacruz,28,1994-04-27,225692,2020,Philosophy,Arts 
+Celine,Reilly,31,1991-07-20,223356,2018,Adult Education,Education 
+Alvaro,Knox,27,1994-12-19,223528,2020,Mathematics,Science 
+Kallie,Fox,31,1991-03-23,224831,2019,Biochemistry,College of Medicine 
+Antonio,Crawford,28,1994-04-04,224538,2020,Physics,Science 
+Aubree,Carrillo,28,1993-12-28,224737,2020,Communication and Language Arts,Arts 
+Wade,Garrett,30,1991-11-23,224222,2019,Geology,Social Sciences 
+Tessa,Benton,25,1997-07-27,225362,2019,Economics,Social Sciences 
+Jamal,Ponce,32,1990-08-10,225062,2021,Mathematics,Science 
+Aileen,Everett,28,1994-03-12,223906,2020,Microbiology,Science 
+Camilo,Duncan,29,1993-06-06,222834,2020,History,Arts 
+Elise,Gilbert,28,1994-03-29,225953,2020,Nursing,College of Medicine 
+Tobias,Neal,25,1996-12-23,224211,2020,Microbiology,Science 
+Talia,Bass,25,1997-06-08,225853,2020,Physics,Science 
+Landen,Reynolds,29,1993-10-18,224482,2021,Biochemistry,College of Medicine 
+Isabelle,Jarvis,24,1998-08-16,223719,2019,Mechanical Engineering,Technology 
+Marlon,Woodard,23,1999-08-14,222717,2019,Communication and Language Arts,Arts 
+Aubrie,Burton,25,1997-10-21,222613,2019,Electrical and Electronics Engineering,Technology 
+Zander,Silva,22,2000-05-27,225093,2020,Mathematics,Science 
+Lucia,O’brien,27,1995-08-22,223541,2018,Psychology,Social Sciences 
+Riley,Jackson,26,1996-01-14,225889,2019,Psychology,Social Sciences 
+Avery,O’Donnell,31,1991-10-29,223114,2021,Mechanical Engineering,Technology 
+Lian,Flowers,30,1991-12-19,222844,2018,Psychology,Social Sciences 
+Ariya,Conner,23,1999-07-22,223810,2020,Microbiology,Science 
+Phillip,Frank,31,1991-10-10,223676,2021,Economics,Social Sciences 
+Dior,Chambers,22,2000-09-11,224065,2019,Adult Education,Education 
+Orion,Poole,32,1990-09-09,224128,2020,Mathematics,Science 
+Bonnie,Salas,32,1990-05-26,224454,2019,Communication and Language Arts,Arts 
+Zaiden,Barber,25,1997-07-16,224956,2020,Nursing,College of Medicine 
+Cassidy,Winters,22,2000-03-03,223333,2020,Electrical and Electronics Engineering,Technology 
+Deandre,Simpson,26,1996-08-10,224286,2018,Physics,Science 
+Anastasia,Rivers,27,1994-11-29,225839,2020,Petroleum Engineering,Technology 
+Bear,Miles,24,1998-06-22,225931,2019,Computer Science,Science 
+Alessandra,Santiago,31,1990-11-27,223819,2020,Medicine and Surgery,College of Medicine 
+Beckham,Ellison,22,2000-08-06,225145,2020,Medicine and Surgery,College of Medicine 
+Raina,Ellis,22,2000-01-12,225698,2020,Economics,Social Sciences 
+Cole,Houston,31,1991-04-11,225857,2018,Economics,Social Sciences 
+Lylah,Fuller,25,1997-11-13,223372,2020,History,Arts 
+Andre,Compton,27,1995-10-12,222827,2019,Petroleum Engineering,Technology 
+Elina,Barajas,23,1999-07-28,222524,2019,Geology,Social Sciences 
+Brennan,Petersen,31,1991-01-25,224823,2019,Philosophy,Arts 
+Fernanda,Melendez,28,1994-11-16,223217,2021,Psychology,Social Sciences 
+Nikolas,Page,22,2000-03-06,224042,2018,Adult Education,Education 
+Cataleya,Lewis,22,2000-07-24,223105,2020,Adult Education,Education 
+Wyatt,West,24,1998-09-19,223185,2021,History,Arts 
+Remi,Lawson,28,1994-03-13,225935,2018,Adult Education,Education 
+Lane,Yates,32,1990-10-22,225410,2020,Economics,Social Sciences 
+Charley,Singh,27,1995-03-06,222733,2018,Computer Science,Science 
+Louis,Horne,20,2002-08-18,224755,2020,Microbiology,Science 
+Marlowe,Maddox,31,1991-05-15,224092,2019,Electrical and Electronics Engineering,Technology 
+Lyric,Maldonado,21,2000-11-17,223070,2020,Adult Education,Education 
+Elaina,Patrick,22,2000-09-25,223459,2018,Petroleum Engineering,Technology 
+Derrick,Freeman,26,1996-01-18,222538,2018,Geology,Social Sciences 
+Norah,Li,27,1995-03-07,223285,2021,Adult Education,Education 
+Jorge,Smith,30,1992-09-09,224295,2019,Philosophy,Arts 
+Olivia,Hobbs,32,1990-03-14,223179,2020,Adult Education,Education 
+Brendan,Cunningham,22,2000-02-06,224613,2021,Computer Science,Science 
+Marley,Hester,21,2001-05-13,224542,2019,Microbiology,Science 
+Rene,Lopez,30,1992-05-28,225780,2018,Physics,Science 
+Gianna,Enriquez,24,1998-03-09,225004,2021,Adult Education,Education 
+Elisha,Hebert,28,1994-10-21,225265,2020,Philosophy,Arts 
+Kyleigh,Huang,24,1998-09-08,223955,2020,Mechanical Engineering,Technology 
+Ayaan,Rivas,30,1992-08-05,225186,2020,Petroleum Engineering,Technology 
+Averie,Powell,26,1996-02-04,223427,2021,Petroleum Engineering,Technology 
+Bennett,Salgado,28,1994-07-16,223880,2020,History,Arts 
+Avalynn,McCullough,23,1999-04-29,223923,2019,Nursing,College of Medicine 
+Briar,Valenzuela,30,1992-01-20,225569,2020,Computer Science,Science 
+Henley,Hahn,29,1993-02-03,224708,2019,Statistics,Science 
+Kabir,Liu,31,1990-12-24,225843,2021,Biochemistry,College of Medicine 
+Kate,Russell,32,1990-03-14,225609,2018,Adult Education,Education 
+Weston,Barber,25,1997-11-09,223954,2018,Mathematics,Science 
+Cassidy,Mays,28,1993-12-24,224220,2020,Geology,Social Sciences 
+Jadiel,Beil,31,1991-06-16,225930,2019,Civil Engineering,Technology 
+Itzel,Esparza,26,1996-07-08,225896,2020,Mathematics,Science 
+Carl,Lamb,25,1997-03-08,224872,2021,Microbiology,Science 
+Amaia,Singleton,25,1997-08-30,222566,2019,Adult Education,Education 
+Landyn,Hurley,23,1999-10-17,225633,2020,Electrical and Electronics Engineering,Technology 
+Rylan,Woods,24,1998-06-05,223003,2020,Electrical and Electronics Engineering,Technology 
+Zion,Lawrence,30,1992-02-23,225115,2018,Psychology,Social Sciences 
+Lauren,Dunlap,24,1997-11-29,225606,2018,Geology,Social Sciences 
+Aries,Johns,23,1999-04-18,223524,2018,Civil Engineering,Technology 
+Giovanna,Wallace,19,2002-11-24,225035,2021,Civil Engineering,Technology 
+Chase,French,20,2002-07-30,223354,2019,Biochemistry,College of Medicine 
+Lorelai,Fernandez,30,1992-05-22,223909,2021,Statistics,Science 
+Bentley,Huang,25,1997-07-20,223060,2019,Adult Education,Education 
+Francesca,Bradford,28,1994-06-10,225703,2018,Mechanical Engineering,Technology 
+Ander,Donaldson,32,1990-01-20,225984,2021,Adult Education,Education 
+Natasha,Pennington,32,1990-05-08,223304,2018,Adult Education,Education 
+Bobby,Stuart,32,1990-06-08,224756,2021,Mathematics,Science 
+Stormi,Xiong,26,1996-05-29,224015,2019,Adult Education,Education 
+Azrael,Pena,23,1999-03-12,225702,2020,Geology,Social Sciences 
+Rachel,Castaneda,26,1996-08-08,222824,2019,Adult Education,Education 
+Collin,Fox,23,1999-01-08,223713,2019,Geology,Social Sciences 
+Juliette,Harrison,20,2002-02-15,225428,2020,Nursing,College of Medicine 
+Gavin,Lynn,23,1999-06-11,224351,2019,Civil Engineering,Technology 
+Samira,Gray,20,2002-03-07,223428,2020,Geology,Social Sciences 
+Nicholas,Sherman,26,1996-01-11,224688,2020,Adult Education,Education 
+Addilyn,Harding,24,1998-04-18,222559,2019,Petroleum Engineering,Technology 
+Brodie,Kirk,24,1998-02-19,223115,2018,Psychology,Social Sciences 
+Ellis,Harvey,26,1996-08-13,222437,2019,Psychology,Social Sciences 
+Cayden,McClure,25,1997-03-17,223130,2018,Adult Education,Education 
+Estella,Underwood,32,1990-10-14,224260,2021,History,Arts 
+Reece,Zamora,31,1991-09-23,224961,2020,Nursing,College of Medicine 
+Sierra,Huerta,23,1999-08-28,224487,2020,Physics,Science 
+Douglas,Quintero,22,2000-04-26,225029,2019,Psychology,Social Sciences 
+Keyla,Ray,25,1997-10-23,224138,2018,Adult Education,Education 
+Arlo,Yang,27,1994-12-03,224261,2021,Philosophy,Arts 
+Angelina,Sparks,25,1997-02-21,222741,2019,Microbiology,Science 
+Drake,Pennington,25,1997-04-22,224495,2018,Biochemistry,College of Medicine 
+Yareli,Tang,22,2000-04-17,225068,2019,Mathematics,Science 
+Rogelio,Palacios,21,2001-01-31,224903,2021,Statistics,Science 
+Bria,Howard,20,2002-04-14,225726,2021,Mathematics,Science 
+Jeremiah,Gibbs,31,1991-09-27,225657,2021,Electrical and Electronics Engineering,Technology 
+Carter,Freeman,24,1998-09-17,224926,2020,Nursing,College of Medicine 
+Jayce,Calhoun,25,1996-12-10,223818,2021,Civil Engineering,Technology 
+Thalia,Nixon,29,1993-03-17,225272,2021,Microbiology,Science 
+Cory,Hurley,24,1997-11-19,223678,2019,Communication and Language Arts,Arts 
+Rylan,Castillo,31,1991-07-11,225334,2019,Mathematics,Science 
+Kai,Drake,20,2002-05-13,224280,2019,Mathematics,Science 
+Jayleen,Cantu,21,2001-08-21,223757,2020,Nursing,College of Medicine 
+Anakin,Townsend,19,2002-12-30,222661,2019,Nursing,College of Medicine 
+Azalea,Middleton,30,1992-03-04,223324,2021,Electrical and Electronics Engineering,Technology 
+Misael,McMillan,28,1994-09-30,223154,2018,Electrical and Electronics Engineering,Technology 
+Oakleigh,Nielsen,24,1998-02-04,222776,2019,Adult Education,Education 
+Tru,Cordova,23,1999-01-20,224233,2021,Economics,Social Sciences 
+Florence,Stephens,27,1995-06-19,225840,2021,Biochemistry,College of Medicine 
+Messiah,Blake,24,1998-01-01,225560,2018,Adult Education,Education 
+Amanda,Cook,24,1998-02-07,222585,2021,Nursing,College of Medicine 
+Ezekiel,Weeks,24,1998-07-03,222752,2019,Physics,Science 
+Karen,Morrison,31,1991-11-15,223641,2020,Microbiology,Science 
+Maximus,Case,20,2002-06-27,223594,2021,Civil Engineering,Technology 
+Cleo,Paul,26,1996-07-16,223162,2021,Mechanical Engineering,Technology 
+Noel,Steele,26,1996-09-04,223475,2020,Mechanical Engineering,Technology 
+Rylie,Lang,20,2002-08-31,223269,2019,Adult Education,Education 
+Wells,George,32,1990-03-16,225506,2019,Electrical and Electronics Engineering,Technology 

@@ -1,0 +1,30 @@
+Bad Array,10,1
+Coordinates,10,1
+Duplicate Files,10,1
+Subarray,20,2
+Bitonic Subsequence,20,2
+Word Search,20,2
+Ordering,10,1
+Meeting Point,20,1
+Invertible Numbers,10,1
+Beautiful Bridges,50,10
+Post Facto,20,1
+DNA,20,3
+Dead-End Detector,30,5
+Rainfall,60,15
+First of Her Name,40,10
+Hobson's Trains,30,5
+Karel the Robot,30,10
+Miniature Golf,20,6
+Traffic Blights,10,2
+Kofta Never Lose,2,1
+Perfect Subarray,5,2
+Even Pairs,5,2
+Somar's Game,5,2
+Somar's Challenge,5,2
+Strange School,5,1
+How to be a legend,1,1
+GGCD,5,2
+New LIS Problem,5,3
+Consistent Tournaments,10,4
+Catch the Plane,30,10
